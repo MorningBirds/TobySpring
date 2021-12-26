@@ -66,3 +66,7 @@
 - 다이나믹 프록시 생성
 
 ![Untitled](images/010.jpeg)
+
+- JDK 다이나믹 프록시와 스프링 ProxyFactoryBean의 구분
+
+![Untitled](images/011.png)
